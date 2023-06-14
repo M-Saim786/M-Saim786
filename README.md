@@ -7,9 +7,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Front End Web Development
 - 🌱 I’m currently learning Web-Development
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on with other Developers
 - 🤔 I’m looking for help with some exprienced Developers
 - 💬 Ask me about 
 - 📫 How to reach me: ...
