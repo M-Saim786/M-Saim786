@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://saim-portfolio.vercel.app/](https://saim-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://saim-portfolio.vercel.app/](https://saimmalik.dev/)
 
 - 💬 Ask me about **React, Node, Express Next, Vite JS**
 
