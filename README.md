@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [saimmalik.dev/](https://www.saimmalik.dev/)
+- 👨‍💻 All of my projects are available at [saimmalik.dev](https://www.saimmalik.dev/)
 
 - 💬 Ask me about **React, Node, Express, Next, Vite JS**
 
